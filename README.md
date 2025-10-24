@@ -49,4 +49,4 @@ When not coding, I’m often training, making hip-hop beats, or exploring cybers
 ---
 
 ⭐ **Let's connect, collaborate, or build something cool.**  
-[LinkedIn →](https://www.linkedin.com/in/isaac-isalwa/) • [GitHub →](https://github.com/isalwa-labs)
+[LinkedIn →](https://www.linkedin.com/in/isaac-isalwa/) • [GitHub →](https://github.com/isalwa-labs) [X →](https://x.com/Isalwaisaac?s=09) • [Medium →](https://medium.com/@isalwaisaac)
