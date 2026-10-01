@@ -1,4 +1,4 @@
-⚡ Isaac Isalwa Ndungu (IIN)
+# ⚡ Isaac Isalwa Ndungu (IIN)
 
 <div align="center">
   
@@ -12,74 +12,21 @@
 
 ---
 
-## 🚀 Systems, Security & Scale
+## 🚀 About Me
 
-I build robust, offline-first software and secure cloud infrastructure for real-world environments. Bypassing generic templates, I focus on bespoke engineering—architecting scalable backends, fluid native mobile interfaces, and AI-driven Cyber Threat Intelligence (CTI) pipelines. My methodology bridges the gap between high-level software development and deep-level network security.
+I am an ambitious, goal-driven IT professional bridging the gap between high-level software development and deep-level network security. My approach bypasses generic templates: I build robust, offline-first applications, break them logically to find vulnerabilities, and secure the cloud infrastructure they run on. 
 
 ```python
-class SecureInfrastructure(Engineer):
+class SecureSystemsEngineer:
     def __init__(self):
         self.name = "Isaac Isalwa Ndungu"
-        self.focus = ["Native Mobile Architecture", "Backend & Cloud Systems", "Cyber Threat Intelligence"]
-        self.philosophy = "Build it scalable. Break it logically. Secure it permanently."
+        self.role = "Secure Full-Stack & Native Android Engineer"
+        self.focus = ["Native Mobile Architecture", "Threat Operations", "Scalable Backend Systems"]
+        self.motto = "Build it scalable. Break it logically. Secure it permanently."
         
     def current_operations(self):
-        return {
-            "building": "Offline-first sync architectures (Flutter/SQLite/Docker)",
-            "securing": "Threat modeling with Wazuh SIEM & MITRE ATT&CK mapping",
-            "creating": "Audio production & 3D architectural rendering (ISTOEN)"
-        }
-
-```
-
----
-
-## 🛠️ Technical Infrastructure
-
-### Core Development
-
-### Security & Threat Ops
-
-### Cloud & DevOps
-
----
-
-## 💼 Deployed Architecture
-
-### 📡 **SiteSync Offline-First Mobile Architecture**
-
-> Production-ready mobile application designed for logging complex field data in zero-connectivity environments. Backed by a Dockerized API for asynchronous batch synchronization.
-> *`Flutter` `SQLite` `Docker` `System Architecture*`
-
-### 🛡️ **AI-Driven Cyber Threat Intelligence Pipeline**
-
-> Engineered an automated semantic mapping engine using BERT-based NLP models. Parses unstructured security reports and correlates threat indicators directly to the MITRE ATT&CK framework.
-> *`Python` `NLP` `Machine Learning` `Cybersecurity*`
-
-### 📦 **ApexLogistics Enterprise Portal**
-
-> Multi-tenant web application handling complex, role-based order workflow lifecycles. Optimized backend response times by eliminating N+1 loop structures via strategic ORM prefetching.
-> *`Django` `PostgreSQL` `AWS` `Enterprise Logic*`
-
-### 🔒 **Native Android Security Utilities**
-
-> Custom Android applications (including dialers and file-sharing platforms) adhering to Material 3 guidelines and integrating hardware-level biometric authentication across OS versions 10–15.
-> *`Kotlin` `Jetpack Compose` `Biometrics*`
-
----
-
-## 🎵 Multimedia & AI Exploration
-
-Beyond code and network security, I explore the intersection of technology and creative production:
-
-* **Audio Engineering (ISTOEN):** Producing and mixing hip-hop/trap/RnB tracks utilizing complex bus routing and saturation configurations in Cubase Pro 15.
-* **AI & Video Generation:** Leveraging Google AI Studio, Veo, and Hedra for multimodal video generation and audio-driven lip-sync workflows.
-* **3D Architectural Modeling:** Utilizing Sweet Home 3D and Planner 5D for precision drafting, offline rendering, and VR walkthroughs.
-
----
-
-## 📊 Telemetry & Activity
-
----
-
-### *"Build it scalable. Break it logically. Secure it permanently."*
+        return [
+            "Architecting offline-first sync mobile architectures",
+            "Hunting bugs and threat modeling with Wazuh SIEM",
+            "Producing audio and 3D architectural rendering (ISTOEN)"
+        ]
