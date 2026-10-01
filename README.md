@@ -1,169 +1,48 @@
-# Hey there, I'm Isaac Isalwa 👋
-
 <div align="center">
-  
+
+# 👋 Hey there, I'm Isaac Isalwa 
+
+<!-- Animated Typing Text -->
+<a href="https://github.com/isalwa-labs">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=PE+Testing+Specialist+%40+Amazon;Security-Minded+Software+Developer;Building+Real-World+Products%2C+Not+Templates;Based+in+Nairobi%2C+Kenya" alt="Typing SVG" />
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-isalwa/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isalwa-labs)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Isalwaisaac?s=09)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@isalwaisaac)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isalwaisaac@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isalwaisaac@gmail.com)
+
+*Ambitious, goal-driven, and focused on building robust, real-world systems.*
 
 </div>
+
+---
 
 ## 🚀 About Me
 
-**PE Testing Specialist @ Amazon** | Security Engineer | Bug Bounty Hunter | DevSecOps Enthusiast
-
-I'm a cybersecurity professional who thrives at the intersection of security, cloud infrastructure, and automation. My approach is simple: build secure systems, break them to find weaknesses, and automate the fixes. With a strong foundation in penetration testing and cloud security, I help organizations identify vulnerabilities before adversaries do.
+I thrive at the intersection of security, cloud infrastructure, and modern application development. My philosophy is simple: **build secure systems, break them to find weaknesses, and automate the fixes.** Whether I'm conducting penetration testing at scale, designing mobile transit architecture, or integrating AI workflows, my focus is always on deploying functional, real-world solutions. 
 
 ```python
-class SecurityEngineer:
-    def __init__(self):
-        self.role = "PE Testing Specialist"
-        self.company = "Amazon"
-        self.focus = ["Penetration Testing", "Cloud Security", "Security Automation"]
-        self.motto = "Code it. Break it. Secure it."
-    
-    def daily_routine(self):
-        return ["Hunt bugs", "Automate security", "Secure systems", "Never stop learning"]
-```
+class TechProfessional:
+    def __init__(self):
+        self.name = "Isaac Isalwa Ndungu"
+        self.role = "PE Testing Specialist & Developer"
+        self.base = "Nairobi, Kenya"
+        self.education = "BSc in Information Technology"
+        self.ethos = "I build products used in real-world environments, not templates."
+        
+    def current_focus(self):
+        return [
+            "AWS Infrastructure Penetration Testing",
+            "Mobile App Dev (Flutter, Kotlin, Jetpack Compose)",
+            "AI Integration (Google AI Studio, Automated Workflows)",
+            "Security Automation & DevSecOps"
+        ]
 
----
-
-## 🎯 Current Focus
-
-- 🔐 **Penetration Testing** at scale for AWS infrastructure
-- 🐛 **Bug Bounty** programs and vulnerability research
-- ⚙️ Building **security automation tools** for DevSecOps workflows
-- 📱 Developing **Android security analysis** utilities
-- ☁️ **Cloud security** hardening and compliance automation
-
----
-
-## 🛠️ Technical Arsenal
-
-### Security & Testing
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Tools & Frameworks
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![radare2](https://img.shields.io/badge/radare2-0A0A0A?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🎓 **Google Cybersecurity Professional Certificate**
-- 🔍 **Active Bug Bounty Hunter** on multiple platforms
-- 🎯 **PE Testing Specialist** at Amazon
-
----
-
-## 💼 Featured Projects
-
-### 🔐 Security Tools
-
-**🔹 [Android APK Analyzer](https://github.com/isalwa-labs)**
-> Automated metadata extraction and static analysis tool for Android applications. Streamlines the initial reconnaissance phase of mobile app security assessments.
-> 
-> `Python` `Android Security` `Static Analysis` `APK`
-
-**🔹 [CloudSec AutoAudit](https://github.com/isalwa-labs)**
-> Cloud security misconfiguration scanner with automated remediation suggestions. Supports AWS, Azure, and GCP environments.
-> 
-> `Cloud Security` `Python` `Automation` `DevSecOps`
-
-**🔹 [CTF Tools Collection](https://github.com/isalwa-labs)**
-> Curated collection of radare2 automation scripts, binary analysis helpers, and CTF challenge solutions.
-> 
-> `Reverse Engineering` `radare2` `CTF` `Binary Analysis`
-
-### ⚙️ Automation & Productivity
-
-**🔹 Personal Automation Suite**
-> Lightweight utilities designed to streamline daily workflows, from file management to system monitoring.
-> 
-> `Python` `Automation` `CLI Tools` `Productivity`
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isalwa-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isalwa-labs&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isalwa-labs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 📝 Latest Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will auto-update with your recent GitHub activity if you set up the workflow -->
-<!--END_SECTION:activity-->
-
----
-
-## 💡 What Drives Me
-
-> *"Security isn't a product, it's a process. I build tools that make that process faster, smarter, and more accessible."*
-
-I believe in:
-- **Continuous learning** in the ever-evolving security landscape
-- **Open-source contribution** to strengthen the security community
-- **Automation** to eliminate repetitive tasks and human error
-- **Ethical hacking** to improve defense mechanisms
-- **Knowledge sharing** through writeups and documentation
-
-When I'm not breaking and securing systems, you'll find me:
-- 🎵 Producing hip-hop beats in LMMS and Reaper
-- 💪 Training and staying physically fit
-- 📚 Reading security research papers and CTF writeups
-- 🎯 Hunting for vulnerabilities in bug bounty programs
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always interested in:
-- 🔐 **Security research** collaborations
-- 🛠️ **Open-source security tools** development
-- 🐛 **Bug bounty** hunting partnerships
-- 📖 **Knowledge sharing** through blogs and talks
-- 💼 **Consulting** on security architecture and pentesting
-
-**Feel free to reach out** if you want to discuss security, collaborate on projects, or just talk tech!
-
----
-
-<div align="center">
-
-### 💬 "Code it. Break it. Secure it." — Isaac Isalwa
-
-[![Profile Views](https://komarev.com/ghpvc/?username=isalwa-labs&color=blueviolet&style=flat-square)](https://github.com/isalwa-labs)
-
-⭐️ From [isalwa-labs](https://github.com/isalwa-labs)
-
-</div>
+    def execute_daily(self):
+        while True:
+            self.code()
+            self.break_it()
+            self.secure_it()
+🛠️ Technical ArsenalSecurity & TestingCloud & DatabaseDev & ArchitectureKali, Linux, BashAWS, Docker, GCPPython, Java, JSPostgreSQL, SQLiteKotlin, Flutter, AndroidGit, CI/CD📊 GitHub Analytics🐍 Contribution Grid💼 Featured EngineeringCloudSec AutoAudit: Cloud security misconfiguration scanner with automated remediation suggestions. Supports AWS, Azure, and GCP.Android APK Analyzer: Automated metadata extraction and static analysis tool for Android. Streamlines the initial reconnaissance phase of mobile app security assessments.CTF Tools Collection: Curated collection of radare2 automation scripts and binary analysis helpers.Automated Platform Integrations: Architecture and system prompt design for tools integrating multi-platform workflows (e.g., automated application tools via LinkedIn/BrighterMonday).Mobile Transit Solutions: Software specifications, database architecture (PostgreSQL/SQLite), and UI workflows for conductor payment and transit route management applications.💡 Beyond the TerminalWhen I'm not auditing AWS or writing Kotlin, my creative outlets include:🎵 Music Production: Authoring and producing hip-hop, trap, and RnB tracks under the handle ISTOEN, utilizing Cubase Pro 15 for advanced bus routing and saturation plugin configurations.🎥 AI Multimodal Generation: Exploring audio-driven lip-sync workflows and video generation utilizing tools like Hedra and Google Veo.🏗️️ 3D Architectural Modeling: Drafting precision 3D architecture, offline rendering, and VR walkthroughs in Sweet Home 3D and Planner 5D.💪 Physical Training: Maintaining a disciplined fitness routine to balance the screen time.💬 "Security isn't a product, it's a process. I build tools that make that process faster, smarter, and more accessible."Key Upgrades Made:Typing SVG Header: Replaced the static header with a dynamic, animated typing loop that cycles through your professional identities and core motto.Tech Grid Layout: Replaced the long list of individual badges with a modern skillicons.dev table matrix. It groups your skills logically (Security, Cloud/DB, Dev/Architecture) and looks much cleaner on both desktop and mobile.Integrated Development Skills: Added your current focus areas (Kotlin, Flutter, Jetpack Compose, PostgreSQL, Google AI Studio) alongside your security toolkit to show a well-rounded DevSecOps/Engineering profile.Expandable Detail Tags (<details>): Used HTML summary tags for your featured projects. This keeps the README vertically compact while still housing deep technical details for those who want to click and read.Modernized Hobbies: Updated the "Beyond Code" section to reflect your highly technical approach to creative tasks (Cubase Pro 15, ISTOEN, 3D architectural modeling, and AI video generation).Contribution Snake Ready: I added the syntax for the popular "GitHub Snake" animation. (Note: To make the snake actually move, you will need to add a standard GitHub Action to your profile repository that generates the SVG—there are many quick 2-minute tutorials on GitHub for setting up the "snk" action).
